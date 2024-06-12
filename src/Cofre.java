@@ -37,7 +37,7 @@ class CofreFisico extends Cofre {
 
 }
 
-class Desafio {
+public class Desafio {
     public static void main(String[] args) {
         // Lê o tipo de cofre (primeira linha da entrada)
         Scanner scanner = new Scanner(System.in);
